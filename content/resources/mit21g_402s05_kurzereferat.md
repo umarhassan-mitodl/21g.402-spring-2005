@@ -4,6 +4,8 @@ description: Arbeitsbl?tter - Kurzreferat Hinweise zum Kurzreferat.
 file: /courses/21g-402-german-ii-spring-2005/123dfc90646455339db32929bf7c5179_MIT21G_402S05_kurzereferat.pdf
 file_size: 576804
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

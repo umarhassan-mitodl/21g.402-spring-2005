@@ -2,12 +2,14 @@
 content_type: page
 description: This section provides a collection of related resources for the course.
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 1cc4b93b-1499-3f59-5ab8-ea1ee477b9f1
 ---
-MIT's {{% resource_link "b22c8af1-c672-478c-a04e-8ba5b1db78c3" "Language Learning Resources" %}} page
+MIT's [Language Learning Resources](https://lce.mit.edu/language-learning-resources) page
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 THEMA
@@ -17,9 +19,9 @@ MATERIALIEN
 Peter Bichsel: "Der Erfinder"
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "d6af8cca-5ee7-41ff-a82c-99ffb3ae53b2" "Zum Autor +Photo" %}}
+[Zum Autor +Photo](http://www.suhrkamp.de/autoren/autor.cfm?id=375)
 
-{{% resource_link "ffd97340-b273-4a7b-89b7-faed294789ec" "Film von Peter Gloor, CH 1980" %}}
+[Film von Peter Gloor, CH 1980](https://web.archive.org/web/20120809204717/http://www.headfilm.ch/films/02882.html)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Bertolt Brecht: "Mein junger Sohn fragt mich"    
@@ -28,114 +30,114 @@ Bertolt Brecht: "Mein junger Sohn fragt mich"  
 
 Information zum Autor und zum Werk
 
-{{% resource_link "8c95edbc-eab4-4f0d-b459-82361e2d6772" "\"Mein junger Sohn fragt mich\"-Vertonung von Hanns Eisler" %}}
+["Mein junger Sohn fragt mich"-Vertonung von Hanns Eisler](https://web.archive.org/web/20191227172420/http://eislermusic.com/reviews/son.htm)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Johann Wolfgang von Goethe: "Erlkönig"
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "f70000dd-9d41-49fa-9cc0-e4f515064f94" "Information zum Autor und zum Werk" %}}
+[Information zum Autor und zum Werk](http://www.goethe-bytes.de/)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Heinrich Heine: "Die Lorelei"
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "0733a8ef-0c43-407a-8659-cbac7aa14321" "zum Autor" %}}
+[zum Autor](http://www.duesseldorf.de/kultur/heineinstitut/index.htm)
 
-{{% resource_link "f6674c20-f26b-4922-a54b-7598937282c1" "Vertonungen" %}}
+[Vertonungen](http://www.lieder.net/lieder/get_text.html?TextId=7600)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Joseph von Eichendorff: "Heimweh"
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "4fe4fc94-cca1-47a4-98f1-aec7438bbf58" "zum Autor" %}}
+[zum Autor](http://gutenberg.spiegel.de/autoren/eichndrf.htm)
 
-{{% resource_link "9b6812ee-24df-4d46-8988-3e8a0aa511ca" "Ein Bild von Caspar David Friedrich" %}}
+[Ein Bild von Caspar David Friedrich](http://de.wikipedia.org/w/index.php?title=Datei:Caspar_David_Friedrich_032.jpg&filetimestamp=20080314145432)
 
-{{% resource_link "925860b2-d991-4b49-90b5-d984ed47f9d0" "Friedrichs Bild als Titelbild für den *Spiegel*" %}}
+[Friedrichs Bild als Titelbild für den *Spiegel*](http://web.mit.edu/21f.402/www/images/Spiegel_Titel.JPG)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Anna Seghers: "Zwei Denkmäler"
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "3d9620c8-eb03-4b71-b018-162f9929f909" "Der Mainzer Dom" %}}, {{% resource_link "b15c4ddb-bf20-40bc-af34-3f340de3b6af" "Photo" %}}
+[Der Mainzer Dom](https://web.archive.org/web/20040614094504/http://www.mainz.de/tourist/index.htm), [Photo](https://web.archive.org/web/20040428172611/http://www.mainz.de/tourist/sehens/bild_htm/tou035.htm)
 
-{{% resource_link "2d78cc10-75c2-4b56-8c95-998e93b2f72d" "Die Anna Seghers Home Page" %}} 
+[Die Anna Seghers Home Page](http://www.uni-potsdam.de/u/germanistik/literatur20/fr_index.html) 
 
-{{% resource_link "9c8c0155-50d7-4933-a388-9a104be11a68" "Stolpersteine" %}}
+[Stolpersteine](http://www.stolpersteine.com/)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Eugen Gomringer
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "9754b030-b726-4958-91fa-d53b0f9c62e6" "Der Autor" %}}, {{% resource_link "756b88dc-fc5c-4384-b8e5-ed09dd79116f" "Photo" %}}
+[Der Autor](http://de.wikipedia.org/wiki/Eugen_Gomringer), [Photo](https://web.archive.org/web/20121115201543/http://www.gezett.de/)
 
-{{% resource_link "a58f7e82-3558-4b56-964d-09858812f9a1" "Konkrete Poesie" %}} 
+[Konkrete Poesie](http://www.ubu.com/papers/gomringer02.html) 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Umweltschutz
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "20bb9e61-cc6d-4fac-aafe-bf007287c8fc" "Berlin Umwelt" %}} 
+[Berlin Umwelt](http://www.stadtentwicklung.berlin.de/umwelt/) 
 
-{{% resource_link "2d4a201f-4390-40e5-86e9-9ec9e73eaaf7" "Umwelt Deutschland" %}}
+[Umwelt Deutschland](http://www.umwelt-deutschland.de/)
 
-{{% resource_link "2ac292eb-2c3a-46c0-b3c7-e54ac70a1764" "Recycling in Deutschland" %}}
+[Recycling in Deutschland](http://www.phil-fak.uni-duesseldorf.de/)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10 Jahre deutsche Einheit
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "3908fe0a-38af-4fe2-a3bd-275be69ef435" "Landkarte und Zeittafel" %}}
+[Landkarte und Zeittafel](http://www.goethe.de/dll/pro/tlk/folie_22-f.html)
 
-{{% resource_link "a5a3149e-12ef-4d4c-b7f7-fc266bd35c9c" "Ettapen deutscher Geschichte" %}}
+[Ettapen deutscher Geschichte](http://www.goethe.de/dll/pro/tlk/folie_21-f.html)
 
-Artikel aus der New York Times (25.10.1999) ({{% resource_link "4bc75696-d75f-4e99-9695-f584994cf364" "PDF" %}})
+Artikel aus der New York Times (25.10.1999) ([PDF](http://web.mit.edu/21f.402/www/OstWestNYT102599.pdf))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Berlin
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "e18fab6d-b05e-4950-a231-363f27f60821" "Die Berliner Mauer" %}}
+[Die Berliner Mauer](http://www.die-berliner-mauer.de/)
 
-{{% resource_link "37576ca7-b22e-4d28-a30c-3e9303c4532c" "Berliner Mauer on-line" %}}
+[Berliner Mauer on-line](https://web.archive.org/web/20150403060505/http://www.dailysoft.com/berlinwall/index_de.html)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Die Bundesrepublik Deutschland
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "10c00e3f-0429-4361-8828-f3fe84fc37aa" "Bundesländer" %}}, {{% resource_link "797c7968-6aa0-4b2f-b6e0-9615b3a2b38e" "Kurzbeschreibung" %}}
+[Bundesländer](http://www.goethe.de/dll/pro/uebersichten/folie_ue03-f.html), [Kurzbeschreibung](http://www.goethe.de/dll/pro/uebersichten/folie_ue02-f.html)
 
-{{% resource_link "43832373-90b7-41e0-aeaf-7996d3923e2c" "Die Parteien im deutschen Bundestag" %}}
+[Die Parteien im deutschen Bundestag](http://www.goethe.de/dll/pro/tlk/folie_24-f.html)
 
-{{% resource_link "236e2321-c30d-4613-8aab-8966a0d8faac" "Bundestagswahl" %}}
+[Bundestagswahl](http://www.goethe.de/dll/pro/tlk/folie_25-f.html)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Die deutsche Presse
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "46c70c79-89f7-4cf5-83c0-e66d66f70dea" "Zeitungen, Zeitschriften" %}}
+[Zeitungen, Zeitschriften](http://www.goethe.de/dll/pro/lkpc/Presse.htm)
 
-{{% resource_link "00bc0330-6ffa-40f9-a51b-076e16c4ddcc" "Rundfunk und Fernsehen" %}}
+[Rundfunk und Fernsehen](http://www.goethe.de/dll/pro/lkpc/TV_Radio.htm)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Die Schweiz
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "6c30f72e-56a1-461f-ade1-2c0cb79e5152" "Kantone der Schweiz" %}}
+[Kantone der Schweiz](http://www.admin.ch/ch/d/sr/c101.html)
 
-{{% resource_link "4a5e25f1-1e14-41cd-b763-bffe82f99c29" "Confoederatio Helvetica" %}}
+[Confoederatio Helvetica](http://www.admin.ch/)
 
-{{% resource_link "950ac91d-b547-489b-9ade-cedbca432e2d" "Informationen über die Schweiz" %}}
+[Informationen über die Schweiz](http://www.about.ch/)
 
-{{% resource_link "2113a4cf-83f1-40e2-bcee-26f3dc8fc8f7" "Schweizer Autoren/innen" %}} (in vier Sprachen)
+[Schweizer Autoren/innen](http://www.bibliomedia.ch/de/) (in vier Sprachen)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Österreich
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "e452ace0-4568-48ef-8d29-0fd83d971d17" "Willkommen" %}}
+[Willkommen](http://www.oesterreich.com/)
 
-{{% resource_link "a8a38d73-ab4d-46ac-a211-0b7a62413b26" "Österreich-Alben" %}}
+[Österreich-Alben](http://www.aeiou.at/aeiou)
 
-{{% resource_link "0518a0dd-e659-4258-af17-46efb34709e9" "Demel in Wien" %}}
+[Demel in Wien](http://www.demel.at/)
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
