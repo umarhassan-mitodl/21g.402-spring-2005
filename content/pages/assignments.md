@@ -9,7 +9,7 @@ ocw_type: CourseSection
 title: Assignments
 uid: 05477db5-46c4-00a2-52ae-ab86ea070895
 ---
-[Student work](https://ocw-studio.odl.mit.edu/sites/21g-402-german-ii-spring-2005/type/page/edit/05477db5-46c4-00a2-52ae-ab86ea070895/#student_work) is available for this course.
+{{% resource_link "50ca88b4-133d-45bc-a176-579b4d7948d5" "Student work" %}} is available for this course.
 
 Please note that references to videos are coded according to the catalog in the LLARC. "LM" notation indicates activities in the course lab manual, listed in the Texts section of the {{% resource_link "e1e1fba5-543b-b2cd-c09b-b775adbb7395" "syllabus" %}}.
 
@@ -47,9 +47,9 @@ Lab Log Sheet ({{% resource_link "5168906c-d3e4-944f-8e86-0ce7015e7dff" "PDF" %}
 
 *Umweltschutz*
 
-[Umweltschutz in Salzburg](http://www.salzburg.gv.at/umwelt)
+{{% resource_link "74b235df-ff6b-4cea-96e4-af062c9c1e5d" "Umweltschutz in Salzburg" %}}
 
-[Berlin Umwelt](http://www.stadtentwicklung.berlin.de/umwelt/)
+{{% resource_link "7a2c6aa7-2ab6-46a2-bd5c-fa3e3bc905e3" "Berlin Umwelt" %}}
 
 *Arbeitsblatt zum Ökologie-Video* ({{% resource_link "d466b9f7-28a1-9204-2073-fcf8f0d0e55d" "PDF" %}})
 
@@ -69,7 +69,7 @@ Lab Log Sheet ({{% resource_link "5168906c-d3e4-944f-8e86-0ce7015e7dff" "PDF" %}
 
 zum Autor
 
-[Sample Assignments](https://ocw-studio.odl.mit.edu/sites/21g-402-german-ii-spring-2005/type/page/edit/05477db5-46c4-00a2-52ae-ab86ea070895/#student_work)
+{{% resource_link "50ca88b4-133d-45bc-a176-579b4d7948d5" "Sample Assignments" %}}
 
 Die Deutschstunde - sample by Rafal Mickiewicz ({{% resource_link "4af26599-036f-5e58-55ca-c8c23ae86b72" "PDF" %}})
 
@@ -147,7 +147,7 @@ Information zum Autor und zum Werk
 
 Eeine kurze Geschichte mit 10 Verben im Präteritum - sample by Karola Meszaros ({{% resource_link "b5515234-98c2-22f9-e410-559cb568b7ca" "PDF" %}})
 
-[Sample Assignments](https://ocw-studio.odl.mit.edu/sites/21g-402-german-ii-spring-2005/type/page/edit/05477db5-46c4-00a2-52ae-ab86ea070895/#student_work)
+{{% resource_link "50ca88b4-133d-45bc-a176-579b4d7948d5" "Sample Assignments" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -189,7 +189,7 @@ Eeine kurze Geschichte mit 10 Verben im Präteritum - sample by Karola Meszaros 
 
 "Als meine Großmutter jung war, …" - sample by Stephan Bosshard ({{% resource_link "522580b4-c512-c72e-99eb-f3c6c5a2dcac" "PDF" %}})
 
-[Sample Assignments](https://ocw-studio.odl.mit.edu/sites/21g-402-german-ii-spring-2005/type/page/edit/05477db5-46c4-00a2-52ae-ab86ea070895/#student_work)
+{{% resource_link "50ca88b4-133d-45bc-a176-579b4d7948d5" "Sample Assignments" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
@@ -263,7 +263,7 @@ Umwelt Deutschland ({{% resource_link "ab00a8a6-1950-e258-eff8-cb6566d5c83b" "PD
 
 Artikel aus der New York Times (25.10.1999)
 
-[Landkarte und Zeittafel](http://www.goethe.de/)
+{{% resource_link "550ec84c-4c87-47c4-a5ec-61e4e75cec0c" "Landkarte und Zeittafel" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
@@ -281,9 +281,9 @@ Berlin Video ({{% resource_link "7c7c909b-6b03-8dbd-c080-9f90eec25a93" "PDF" %}}
 
 *Geographie Deutschlands*
 
-[Bundesländer](http://www.goethe.de/)
+{{% resource_link "550ec84c-4c87-47c4-a5ec-61e4e75cec0c" "Bundesländer" %}}
 
-[Kurzbeschreibung](http://www.goethe.de/)
+{{% resource_link "550ec84c-4c87-47c4-a5ec-61e4e75cec0c" "Kurzbeschreibung" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
@@ -299,11 +299,11 @@ Berlin Video ({{% resource_link "7c7c909b-6b03-8dbd-c080-9f90eec25a93" "PDF" %}}
 
 *Berlin*
 
-[Die Berliner Mauer](http://www.die-berliner-mauer.de/)
+{{% resource_link "e9b8d532-cf79-4451-be05-c8d4fa09e1b4" "Die Berliner Mauer" %}}
 
-[Berliner Mauer on-line](https://web.archive.org/web/20150403060505/http://www.dailysoft.com/berlinwall/index_de.html)
+{{% resource_link "61ea3c6b-3b54-4bc3-84e7-3d87e1e18c03" "Berliner Mauer on-line" %}}
 
-[Der Fall der Berliner Mauer](http://www.umbruch-bildarchiv.de/bildarchiv/ereignis/mauerfall.html)
+{{% resource_link "7d837cb7-06e0-4bd7-9b2c-6fc28fba3596" "Der Fall der Berliner Mauer" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
@@ -355,13 +355,13 @@ Berlin Video ({{% resource_link "7c7c909b-6b03-8dbd-c080-9f90eec25a93" "PDF" %}}
 
 *Anna Seghers: "Zwei Denkmäler"*
 
-[Der Mainzer Dom](https://web.archive.org/web/20040614094504/http://www.mainz.de/tourist/index.htm)
+{{% resource_link "f638eae4-8c79-4091-9b8e-b16b97d9ab2f" "Der Mainzer Dom" %}}
 
-[Photo](https://web.archive.org/web/20121115201543/http://www.gezett.de/)
+{{% resource_link "8f7e259f-12aa-4f72-9292-3c41bc287aeb" "Photo" %}}
 
 Die Anna Seghers Home Page
 
-[Stolpersteine](http://www.stolpersteine.com/)
+{{% resource_link "2d41bba9-5236-4552-897d-1eeb2eaf1973" "Stolpersteine" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
@@ -401,9 +401,9 @@ Bringen Sie auch Ihre Fragen für die Wiederholung am Tag 27 mit.
 
 *Joseph von Eichendorff: "Heimweh"*
 
-[zum Autor](http://gutenberg.spiegel.de/autoren/eichndrf.htm)
+{{% resource_link "39d04d8b-84f0-4ec9-a221-cc09456dfc52" "zum Autor" %}}
 
-[Ein Bild von Caspar David Friedrich](http://de.wikipedia.org/w/index.php?title=Datei:Caspar_David_Friedrich_032.jpg&filetimestamp=20080314145432), "Der Wanderer über dem Nebelmeer"
+{{% resource_link "5e31bbf1-d599-4255-ad98-77bea7acf2b1" "Ein Bild von Caspar David Friedrich" %}}, "Der Wanderer über dem Nebelmeer"
 
 Friedrichs Bild als Titelbild für den Spiegel (Nr. 19, May 8, 1995)
 
@@ -454,11 +454,11 @@ Hinweise zum Kurzreferat ({{% resource_link "123dfc90-6464-5533-9db3-2929bf7c517
 
 *Eugen Gomringer*
 
-[Der Autor](http://de.wikipedia.org/wiki/Eugen_Gomringer)
+{{% resource_link "942ead59-9259-4419-900d-b234558371e8" "Der Autor" %}}
 
-[Photo](https://web.archive.org/web/20121115201543/http://www.gezett.de/)
+{{% resource_link "8f7e259f-12aa-4f72-9292-3c41bc287aeb" "Photo" %}}
 
-[Konkrete Poesie](http://www.ubu.com/papers/gomringer02.html)
+{{% resource_link "f288c6be-6c82-4207-84ac-86d7692d2b6d" "Konkrete Poesie" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 31
@@ -478,13 +478,13 @@ Hinweise zum Kurzreferat ({{% resource_link "123dfc90-6464-5533-9db3-2929bf7c517
 
 *Die Schweiz*
 
-[Kantone der Schweiz](http://www.admin.ch/ch/d/sr/c101.html)
+{{% resource_link "9fa3f150-1362-4f4d-b158-e73b3c06d374" "Kantone der Schweiz" %}}
 
-[Confoederatio Helvetica](http://www.admin.ch/)
+{{% resource_link "4a6c26f9-4288-460f-acb9-47e6c7ffc441" "Confoederatio Helvetica" %}}
 
 Statistik Schweiz
 
-[Informationen über die Schweiz](http://www.about.ch/)
+{{% resource_link "fc7f5377-3629-40a5-bd83-14d2a8cb4831" "Informationen über die Schweiz" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 32
@@ -498,9 +498,9 @@ Statistik Schweiz
 
 *Peter Bichsel: "Der Erfinder"*
 
-[Zum Autor + Photo](http://www.poetenfest-erlangen.de/archiv/2001/frameset.htm)
+{{% resource_link "cc407b9a-1166-474b-930d-bef7847a1808" "Zum Autor + Photo" %}}
 
-[Film von Peter Gloor, CH 1980](https://web.archive.org/web/20120809204717/http://www.headfilm.ch/films/02882.html)
+{{% resource_link "48f4f8e0-b4a8-46c3-baa1-680904608d82" "Film von Peter Gloor, CH 1980" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 33
@@ -549,13 +549,13 @@ Statistik Schweiz
 
 *Österreich*
 
-[Willkommen](http://www.oesterreich.com/)
+{{% resource_link "ad07366f-d255-473f-a90b-da614183b885" "Willkommen" %}}
 
-[Österreich-Alben](http://www.aeiou.at/aeiou)
+{{% resource_link "e2edffef-9f12-4e18-ab9c-9a4aa09b798c" "Österreich-Alben" %}}
 
-[Demel in Wien](http://www.demel.at/)
+{{% resource_link "3049bc19-c61e-489f-9db3-f79fadfe6a32" "Demel in Wien" %}}
 
-[Die Spanische Reitschule](http://www.srs.at/)
+{{% resource_link "f6694f0b-559e-40ea-887b-c37b96f8fd4c" "Die Spanische Reitschule" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 37
