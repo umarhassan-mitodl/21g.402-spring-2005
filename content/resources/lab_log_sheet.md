@@ -5,8 +5,6 @@ description: Resource required to record the time spent working with the differe
 file: /courses/21g-402-german-ii-spring-2005/6de1a1ff3c7250a697effaa4b35cb5ea_lab_log_sheet.pdf
 file_size: 53936
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

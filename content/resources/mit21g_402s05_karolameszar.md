@@ -4,8 +4,6 @@ description: '"Die Musik hielt."'
 file: /courses/21g-402-german-ii-spring-2005/b551523498c222f9e410559cb568b7ca_MIT21G_402S05_karolameszar.pdf
 file_size: 68953
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

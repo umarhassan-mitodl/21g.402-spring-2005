@@ -4,8 +4,6 @@ description: '"Das Lied der Deutschen" GE 006 "Einigkeit, Recht und Freiheit"'
 file: /courses/21g-402-german-ii-spring-2005/ab00a8a61950e258eff8cb6566d5c83b_MIT21G_402S05_deutschlandl.pdf
 file_size: 73920
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
